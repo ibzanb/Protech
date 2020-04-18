@@ -16,7 +16,7 @@
                         <div class="tile-stats">
                           <div class="icon"><i class="fa fa-ticket"></i></div>
                           <div class="count"><?php echo mysqli_num_rows($TicketData) ?></div>
-                          <h3>Tickets Pendientes</h3>
+                          <h3>Tickets Fakes</h3>
                         </div>
                     </div>
                     <div class="animated flipInY col-lg-3 col-md-3 col-sm-6 col-xs-12">
