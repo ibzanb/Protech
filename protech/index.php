@@ -65,7 +65,7 @@
                                 <div class="clearfix"></div>
                                 <br />
                                 <div>
-                                    <h1><i class="fa fa-ticket"></i> Protech!</h1>
+                                    <h1><i class="fa fa-ticket"></i> Protech!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</h1>
                                     <p> <a style="text-decoration: underline;" target="_blank" href="https://github.com/ibzanb/Protech">Support</a>Sistema de tickets creado por Protech</p>
                                 </div>
                             </div>
