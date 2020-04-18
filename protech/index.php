@@ -68,7 +68,6 @@
                                     <h1><i class="fa fa-ticket"></i> Ticketly!</h1>
                                     <p> <a style="text-decoration: underline;" target="_blank" href="https://github.com/ibzanb/Protech">Support</a>Sistema de tickets creado por Protech2.0</p>
 
-                                    
 
                                 </div>
                             </div>
