@@ -49,7 +49,7 @@
                     ?>
                     <section class="login_content">
                         <form action="action/login.php" method="post">
-                            <h1>Iniciar Sesiddsadsaódsad</h1>
+                            <h1>Iniciar Sesion</h1>
                             <div>
                                 <input type="text" name="email" class="form-control" placeholder="Correo Electrónico" required />
                             </div>
@@ -58,14 +58,14 @@
                             </div>
                             <div>
                                 <button type="submit" name="token" value="Login" class="btn btn-default">Iniciar Sesion</button>
-                                <a class="reset_pass" href="#">Olvidaste Tu contraseña? Estupido</a>
+                                <a class="reset_pass" href="#">Olvidaste Tu contraseña?</a>
                             </div>
                             <div class="clearfix"></div>
                             <div class="separator">
                                 <div class="clearfix"></div>
                                 <br />
                                 <div>
-                                    <h1><i class="fa fa-ticket"></i> Protechhh</h1>
+                                    <h1><i class="fa fa-ticket"></i> Protech</h1>
                                     <p> <a style="text-decoration: underline;" target="_blank" href="https://github.com/ibzanb/Protech">Support</a>Sistema de tickets creado por Protech</p>
                                 </div>
                             </div>
