@@ -18,7 +18,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Iniciar Sesión </title>
+        <title>Iniciar Sesión1 </title>
 
         <!-- Bootstrap -->
         <link href="css/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
