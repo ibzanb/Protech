@@ -49,7 +49,7 @@
                     ?>
                     <section class="login_content">
                         <form action="action/login.php" method="post">
-                            <h1>Iniciar Fortnite rtx on </h1>
+                            <h1>Iniciar Sesión</h1>
                             <div>
                                 <input type="text" name="email" class="form-control" placeholder="Correo Electrónico" required />
                             </div>
@@ -69,7 +69,7 @@
                                     <p> <a style="text-decoration: underline;" target="_blank" href="https://github.com/ibzanb/Protech">Support</a>Sistema de tickets creado por Protech</p>
                                 </div>
                             </div>
-                        </form>|
+                        </form>
                     </section>
                 </div>
             </div>
