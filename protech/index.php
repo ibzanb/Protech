@@ -49,11 +49,8 @@
                     ?>
                     <section class="login_content">
                         <form action="action/login.php" method="post">
-<<<<<<< HEAD
+
                             <h1>Iniciar Sesión</h1>
-=======
-                            <h1>Iniciar sesion</h1>
->>>>>>> e2423d8c12a6423798ca3fa0e2729f2ee7794efb
                             <div>
                                 <input type="text" name="email" class="form-control" placeholder="Correo Electrónico" required />
                             </div>
