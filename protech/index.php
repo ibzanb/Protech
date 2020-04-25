@@ -58,7 +58,7 @@
                             </div>
                             <div>
                                 <button type="submit" name="token" value="Login" class="btn btn-default">Iniciar Sesion</button>
-                                <a class="reset_pass" href="#">Olvidaste Tu contraseña?</a>
+                                <a class="reset_pass" href="#">Recuperar contraseña</a>
                             </div>
                             <div class="clearfix"></div>
                             <div class="separator">
