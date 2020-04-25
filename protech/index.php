@@ -49,7 +49,11 @@
                     ?>
                     <section class="login_content">
                         <form action="action/login.php" method="post">
+<<<<<<< HEAD
                             <h1>Iniciar Fortnite</h1>
+=======
+                            <h1>Iniciar Sesion1234</h1>
+>>>>>>> f1956a060fee27c3ad3bfd02a276c9a70ed21d7d
                             <div>
                                 <input type="text" name="email" class="form-control" placeholder="Correo Electrónico" required />
                             </div>
