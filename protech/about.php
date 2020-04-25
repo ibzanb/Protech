@@ -31,7 +31,7 @@
                         <ul>
                         <li><b>Usuarios</b>: Se puede agregar editar y eliminar usuarios.</li>
                         <li><b>Tickets</b>: Cada usuario puede agregar un ticket.</li>
-                        <li><b>Proyectos</b>: Cada usuario puede agregar los proyectos que desee.</li>
+                        <li><b>Agente</b>: Cada usuario puede agregar los proyectos que desee.</li>
                         <li><b>Perfiles</b>: Los usuarios pueden rellenar su perfil</li>
                         <li><b>Categorias</b>: Los usuarios agregar categorias.</li>
                         <li><b>Reportes</b>: Los usuarios pueden generar reportes.</li>
