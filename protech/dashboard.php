@@ -1,5 +1,5 @@
-<?php 
-    $title ="Dashboard - "; 
+<?php
+    $title ="Dashboard - ";
     include "head.php";
     include "sidebar.php";
 
@@ -44,6 +44,8 @@
                 <!-- content -->
                 <br><br>
                 <div class="row">
+
+                  <!--
                     <div class="col-md-4">
                         <div class="image view view-first">
                             <img class="thumb-image" style="width: 100%; display: block;" src="images/profiles/<?php echo $profile_pic; ?>" alt="image" />
@@ -55,10 +57,11 @@
                         </span>
                         <div id="respuesta"></div>
                     </div>
+                    -->
                     <div class="col-md-8 col-xs-12 col-sm-12">
                         <?php include "lib/alerts.php";
                             profile(); //llamada a la funcion de alertas
-                        ?>    
+                        ?>
                         <div class="x_panel">
                             <div class="x_title">
                                 <h2>Informacion personal</h2>
@@ -81,7 +84,7 @@
                                         </div>
                                     </div>
                                     <div class="form-group">
-                                        <label class="control-label col-md-3 col-sm-3 col-xs-12" for="last-name">Correo electronico 
+                                        <label class="control-label col-md-3 col-sm-3 col-xs-12" for="last-name">Correo electronico
                                         </label>
                                         <div class="col-md-6 col-sm-6 col-xs-12">
                                             <input type="text" id="last-name" name="email" class="form-control col-md-7 col-xs-12" value="<?php echo $email; ?>">
@@ -90,7 +93,7 @@
 
                                     <br><br><br>
                                     <h2 style="padding-left: 50px">Cambiar Contraseña</h2>
-                            
+
                                     <div class="form-group">
                                         <label class="control-label col-md-3 col-sm-3 col-xs-12">Contraseña antigua
                                         </label>
@@ -99,7 +102,7 @@
                                         </div>
                                     </div>
                                     <div class="form-group">
-                                        <label class="control-label col-md-3 col-sm-3 col-xs-12">Nueva contraseña 
+                                        <label class="control-label col-md-3 col-sm-3 col-xs-12">Nueva contraseña
                                         </label>
                                         <div class="col-md-6 col-sm-6 col-xs-12">
                                             <input id="birthday" name="new_password" class="date-picker form-control col-md-7 col-xs-12" type="text">
